@@ -130,7 +130,6 @@ SkillGroups:
         Settings:
           Target: Sentinel
           TenantId: "{{TenantId}}"
-          TenantId: "{{TenantId}}"
           SubscriptionName: "{{SubscriptionName}}"
           ResourceGroupName: "{{ResourceGroupName}}"
           WorkspaceName: "{{WorkspaceName}}"
