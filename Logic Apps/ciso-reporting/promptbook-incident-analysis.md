@@ -1,6 +1,6 @@
 # Prompts in the Incident Analysis promptbook
 
-This promptbook, containing a (sample) series of prompts for reporting the high-level status of the Security Incident Management process for the current organization, has been designed to be invoked from the [CfS-SendPromptbookResultsByEmail](https://github.com/stefanpems/cfs/tree/main/CfS-SendPromptbookResultsByEmail) Logic App and requires the [CISO Incidents Summary](https://github.com/stefanpems/cfs/blob/main/ciso-reporting/ciso-incidents-summary-man.yaml) Custom Plugin as a prerequisite.
+This promptbook, containing a (sample) series of prompts for reporting the high-level status of the Security Incident Management process for the current organization, has been designed to be invoked from the [CfS-SendPromptbookResultsByEmail](https://github.com/Azure/Security-Copilot/tree/main/Logic%20Apps/CfS-SendPromptbookResultsByEmail) Logic App and requires the [CISO Incidents Summary](https://github.com/Azure/Security-Copilot/blob/main/Logic%20Apps/ciso-reporting/ciso-incidents-summary-man.yaml) Custom Plugin as a prerequisite.
 
 ## Prompt 1
 ```
@@ -95,7 +95,7 @@ Call the CisoGetUsersStatus skill of the CisoIncidentsSummaryApiHelper plugin. P
 ---
 
 # Parameters for the Logic App that invoke the Incident Analysis promptbook and sends the results by email
-(Logic App template: https://github.com/stefanpems/cfs/tree/main/CfS-SendPromptbookResultsByEmail)
+(Logic App template: https://github.com/Azure/Security-Copilot/tree/main/Logic%20Apps/CfS-SendPromptbookResultsByEmail)
 
 
 ## Paramters related to the responses of the promptbook
