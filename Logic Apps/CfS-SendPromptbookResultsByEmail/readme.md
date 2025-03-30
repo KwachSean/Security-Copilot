@@ -18,7 +18,7 @@ Please refer to this article for further details and for a video on how to deplo
 7. Enable the Logic App (the template deploys it in disabled state).
 
 ## Deployment button
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fstefanpems%2Fcfs%2Frefs%2Fheads%2Fmain%2FCfS-SendPromptbookResultsByEmail%2FCfS-SendPromptbookResultsByEmail.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FSecurity-Copilot%2Frefs%2Fheads%2Fmain%2FLogic%2520Apps%2FCfS-SendPromptbookResultsByEmail%2FCfS-SendPromptbookResultsByEmail.json)
 
 ## Example of email customization:
 The following image shows:
