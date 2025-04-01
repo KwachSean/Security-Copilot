@@ -36,8 +36,7 @@
    
 7. Before starting this setup procedure, make sure to have the following information available:
    - Credentials for the "Security Copilot Automation Account"
-   - Identification parameters for Sentinel (Subscroption ID, Resource Group Name, Sentinel Workspace Name)
-
+   - Identification parameters for Sentinel (Subscription ID, Resource Group Name, Sentinel Workspace Name)
 # Setup Procedure
 
 ## [**STEP 1**] Create the promptbooks
