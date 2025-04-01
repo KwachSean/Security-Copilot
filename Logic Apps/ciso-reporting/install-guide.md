@@ -163,8 +163,7 @@ On the Azure portal, accessed with credentials with an administrative role:
 
 
    On the Security Copilot portal, accessed with credentials with the Owner role:
-   - [**STEP 6.2**] Increment temporarly the number of SCUs to ensure the first "test" executions can be completed successfully.
-
+   - [**STEP 6.2**] Increment temporarily the number of SCUs to ensure the first "test" executions can be completed successfully.
   
    On the Azure portal, accessed with credentials with an administrative role:   
    - [**STEP 6.3**] Enable the "**CISO Incidents Analysis**" automation and wait its first automatic execution
